@@ -1,0 +1,9 @@
+{
+  "name": "TravelLoop",
+  "description": "A time-bound travel group app for photo sharing, voting, AI-powered trip recaps, and memory games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
